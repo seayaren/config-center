@@ -1,3 +1,11 @@
 server:
   port: 9990
   name: server00
+  
+spring:
+  cloud:
+    consul:
+      host: 192.168.0.36
+      port: 8500
+      discovery:
+        register: false
