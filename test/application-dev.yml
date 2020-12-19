@@ -1,6 +1,6 @@
 server:
   port: 9990
-  name: server11
+  name: server22
   
 spring:
   cloud:
