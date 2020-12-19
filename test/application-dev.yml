@@ -9,3 +9,7 @@ spring:
       port: 8500
       discovery:
         register: false
+  zipkin:
+    base-url: http://192.168.0.36:9411
+    sender:
+      type: web
