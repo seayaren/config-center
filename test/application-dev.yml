@@ -12,3 +12,9 @@ spring:
     base-url: http://192.168.0.36:9411
     sender:
       type: web
+
+management:
+  endpoints: #暴露bus刷新配置的端点
+    web:
+      exposure:
+        include: 'bus-refresh'
