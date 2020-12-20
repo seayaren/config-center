@@ -1,6 +1,6 @@
 server:
   port: 9990
-  name: server4412345
+  name: server4412346
   
 spring:
   rabbitmq:
