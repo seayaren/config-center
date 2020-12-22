@@ -1,4 +1,4 @@
-foo: XXX1
+foo: XXX2
 server:
   port: 9991
   name: server2
