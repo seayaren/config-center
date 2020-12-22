@@ -1,1 +1,3 @@
-from=dev
+spring:
+  profiles:
+    active: dev
