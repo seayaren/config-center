@@ -1,7 +1,7 @@
-foo: SSSS22
+foo: SSSS2233
 server:
   port: 9991
-  name: server23333
+  name: server4444
   
 spring:
   rabbitmq:
