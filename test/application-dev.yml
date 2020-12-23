@@ -1,7 +1,7 @@
 foo: 22
 server:
   port: 9991
-  name: server2
+  name: server2ceshi
 spring:
   rabbitmq:
     host: 127.0.0.1
