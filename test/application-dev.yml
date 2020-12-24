@@ -1,6 +1,6 @@
 foo: 22
 server:
-  port: 9992
+  port: 9991
   name: server3
 spring:
   rabbitmq:
